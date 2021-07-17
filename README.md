@@ -1,6 +1,6 @@
 # Introduction App
 
-Not really an introduction app, more like an in-depth introduction about myself and some andimations...
+Not really an introduction app, more like an in-depth introduction about myself and some animations...
 
 -
 The Introduction app is an activity from the Swift Accelerator Programme
